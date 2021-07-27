@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WhalesHunterCrypto
 - 👀 I’m interested in quant finance and blockchain development
-- 🌱 I’m currently learning quant finance and Solidity developemtn
+- 🌱 I’m currently learning quant finance and Solidity development
 - 💞️ I’m looking to collaborate on anything related to Fintech
 - 📫 How to reach me whaleshuntercrypto@gmail.com
 
